@@ -1,0 +1,27 @@
+{
+  "name": "moderndeploy",
+  "version": "1.0.0",
+  "description": "a basic app to deploy empty file ",
+  "keywords": [
+    "node",
+    "modern"
+  ],
+  "homepage": "https://github.com/sawariyaseth/backend#readme",
+  "bugs": {
+    "url": "https://github.com/sawariyaseth/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawariyaseth/backend.git"
+  },
+  "license": "ISC",
+  "author": "harsit baroliya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
